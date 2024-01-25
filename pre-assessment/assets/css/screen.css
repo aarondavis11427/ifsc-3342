@@ -2,7 +2,7 @@
 	margin: 0px;/*margin creates margins for the site as a whole, basically setting the default for the page until edited more specifically in the body, header or footer*/
 	padding: 0px;/*padding makes space between content and the margin itself and this declaration sets the default to zero until changed later in the code*/
 }
-body {
+#body {
 	background-image: url("assets/img/bg-tile.jpg");
 	text-align: center;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
