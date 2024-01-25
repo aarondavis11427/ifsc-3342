@@ -5,6 +5,7 @@
 body {
 	text-align: center;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  	background-image: ifsc-3342/pre-assessment/assets/img/bg-tile.jpg;
 	background-color: #171717;
 	font-size: 16px;
 	line-height: 1.5em;
@@ -14,9 +15,10 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	text-align: left;
-	background-color: #FFF;
+	background-color: #171717;
 	margin-top: 20px;
-	border: 1px solid #CCC;
+	border: 1px solid #171717;
+ 	color: #FFF;
 }
 #header {
 }
