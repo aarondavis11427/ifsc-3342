@@ -23,11 +23,13 @@ body {
 }
 h1{
 	background: url("../resources/assessment-5.jpg");
-	text-width: 800px;
-	text-height:140px;
-	font-size: 0;
 	width: 800px;
 	height: 140px;
+	text-width: 800px;
+	text-height: 140px;
+}
+h1 span{
+	visibility: hidden;
 }
 #header {
 }
