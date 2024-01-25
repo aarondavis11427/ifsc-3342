@@ -22,6 +22,7 @@ body {
  	color: #FFF;
 }
 #header {
+	background-image: url("../resources/assessment-5.jpg");
 }
 #header h1 a {
 }
