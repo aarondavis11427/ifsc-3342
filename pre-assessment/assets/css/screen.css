@@ -26,6 +26,7 @@ h1{
 	text-width: 800px;
 	text-height:140px;
 	text-color: transparent;
+	user-select: none;
 	width: 800px;
 	height: 140px;
 }
