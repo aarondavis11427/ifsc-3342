@@ -2,8 +2,8 @@
 	margin: 0px;/*margin creates margins for the site as a whole, basically setting the default for the page until edited more specifically in the body, header or footer*/
 	padding: 0px;/*padding makes space between content and the margin itself and this declaration sets the default to zero until changed later in the code*/
 }
-#body {
-	background-image: url("assets/img/bg-tile.jpg");
+body {
+	
 	text-align: center;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	background-color: #171717;
@@ -11,6 +11,7 @@
 	line-height: 1.5em;
 }
 #container {
+	background-image: url("assets/img/bg-tile.jpg");
 	max-width: 800px;
 	margin-right: auto;
 	margin-left: auto;
