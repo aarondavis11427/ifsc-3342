@@ -21,9 +21,9 @@ body {
 	border: 1px solid #171717;
  	color: #FFF;
 }
-#header {
-	background-image: url("../resources/assessment-5.jpg");
+#header (
 	.hide-text {
+		background: url("../resources/assessment-5.jpg");
 		text-indent: 100%;
 		white-space: nowrap;
 		overflow: hidden;
