@@ -22,12 +22,12 @@ body {
  	color: #FFF;
 }
 h1{
+	background: url("../resources/assessment-5.jpg");
+	display: block;
+	margin: 0 auto;
+	text-indent: -9999px;
 	width: 800px;
 	height: 140px;
-	background: url("../resources/assessment-5.jpg");
-}
-h1 span{
-	display: none;
 }
 #header {
 }
