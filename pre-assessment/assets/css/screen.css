@@ -5,7 +5,7 @@
 body {
 	text-align: center;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-  	background-image: ifsc-3342/pre-assessment/assets/img/bg-tile.jpg;
+  	background-image: url("pre-assessment/assets/img/bg-tile.jpg");
 	background-color: #171717;
 	font-size: 16px;
 	line-height: 1.5em;
