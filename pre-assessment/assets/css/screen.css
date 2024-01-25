@@ -1,6 +1,6 @@
 * {
-	margin: 0px;
-	padding: 0px;
+	margin: 0px;/*margin creates margins for the site as a whole, basically setting the default for the page until edited more specifically in the body, header or footer*/
+	padding: 0px;/*padding makes space between content and the margin itself and this declaration sets the default to zero until changed later in the code*/
 }
 body {
 	text-align: center;
