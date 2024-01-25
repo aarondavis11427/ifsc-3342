@@ -26,7 +26,7 @@ h1{
 	height: 140px;
 	background: url("../resources/assessment-5.jpg");
 	text-indent: -9999px;
-	font-size: 1px;
+	white-space: nowrap;
 }
 #header {
 }
