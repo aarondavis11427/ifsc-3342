@@ -21,6 +21,11 @@ body {
 	border: 1px solid #171717;
  	color: #FFF;
 }
+h1{
+	width: 800px;
+	height: 140px;
+	background-image: url("../resources/assessment-5.jpg");
+}
 #header {
 }
 #header h1 a {
