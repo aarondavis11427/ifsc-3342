@@ -23,9 +23,9 @@ body {
 }
 h1{
 	background: url("../resources/assessment-5.jpg");
-	display: block;
-	margin: 0 auto;
-	text-indent: -9999px;
+	text-width: 800px;
+	text-height:140px;
+	text-color: transparent;
 	width: 800px;
 	height: 140px;
 }
