@@ -69,6 +69,15 @@ h1 span{
 #content {
 	margin: 20px;
 }
+#content h2{
+  color: #F2B95F;
+}
+#content h3{
+  color: #0F5336;
+}
+#content h4{
+  color: #223C7D;
+}
 #content p {
 	margin-top: 5px;
 	margin-bottom: 15px;
