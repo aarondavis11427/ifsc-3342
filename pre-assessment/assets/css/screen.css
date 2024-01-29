@@ -18,20 +18,21 @@ body {
 	background-color: #171717;
 	margin-top: 20px;
 	border: 1px solid #171717;
-  color: #FFF;
+  	color: #FFF;
 }
 #header {
 }
 h1{
-  background-image: url("../resources/assessment-5.jpg");
-  width: 800px;
-  height: 140px;
-  font-size: 140px;
-  text-align: center;
-  vertical-align: middle;
+  	background-image: url("../resources/assessment-5.jpg");
+  	width: 800px;
+  	height: 140px;
+  	font-size: 140px;
+	margin-bottom: -45px;
+  	text-align: center;
+ 	vertical-align: middle;
 }
 h1 span{
-  visibility: hidden;
+  	visibility: hidden;
 }
 #header h1 a {
 }
