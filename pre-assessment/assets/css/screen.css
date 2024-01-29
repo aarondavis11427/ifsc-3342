@@ -26,8 +26,8 @@ h1{
   	background-image: url("../resources/assessment-5.jpg");
   	width: 800px;
   	height: 140px;
-  	font-size: 290px;
-	transform: scale(1, .5);
+  	font-size: 180px;
+	letter-spacing: 60px;
   	text-align: center;
  	vertical-align: middle;
 }
