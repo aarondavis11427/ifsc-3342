@@ -1,15 +1,19 @@
 * {
-	margin: 0px;/*margin creates margins for the site as a whole, basically setting the default for the page until edited more specifically in the body, header or footer*/
-	padding: 0px;/*padding makes space between content and the margin itself and this declaration sets the default to zero until changed later in the code*/
+	margin: 0px;
+	/*margin creates margins for the site as a whole, basically setting the default for the page until edited more specifically in the body, header or footer*/
+	padding: 0px;
+	/*padding makes space between content and the margin itself and this declaration sets the default to zero until changed later in the code*/
 }
+
 body {
 	text-align: center;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-  	background-image: url("../img/bg-tile.jpg");
+	background-image: url("../img/bg-tile.jpg");
 	background-color: #171717;
 	font-size: 16px;
 	line-height: 1.5em;
 }
+
 #container {
 	max-width: 800px;
 	margin-right: auto;
@@ -18,84 +22,98 @@ body {
 	background-color: #171717;
 	margin-top: 20px;
 	border: 1px solid #171717;
-  	color: #FFF;
+	color: #FFF;
 }
-#header {
-}
-h1{
-  	background-image: url("../resources/assessment-5.jpg");
-  	width: 800px;
-  	height: 140px;
-  	font-size: 180px;
+
+h1 {
+	background-image: url("../resources/assessment-5.jpg");
+	width: 800px;
+	height: 140px;
+	font-size: 180px;
 	letter-spacing: 60px;
-  	text-align: center;
- 	vertical-align: middle;
+	text-align: center;
+	vertical-align: middle;
 }
-h1 span{
-  	visibility: hidden;
+
+h1 span {
+	visibility: hidden;
 }
-#header h1 a {
-}
+
 #nav {
 	background-color: #000;
 }
+
 #nav ul {
 	list-style-type: none;
 	margin-left: 10px;
 }
+
 #nav ul li {
 	display: inline;
 	height: 35px;
 	line-height: 35px;
 }
+
 #nav ul li a {
 	display: inline-block;
 	padding-right: 10px;
 	padding-left: 10px;
 	font-size: 18px;
 }
-#nav ul li a:link, #nav ul li a:visited {
+
+#nav ul li a:link,
+#nav ul li a:visited {
 	text-decoration: none;
 	border-bottom-width: 4px;
 	border-bottom-style: solid;
 	border-bottom-color: #000;
 	color: #FFF;
 }
+
 #nav ul li a:hover {
 	border-bottom-width: 3px;
 	border-bottom-style: solid;
 	border-bottom-color: #CCC;
 }
+
 #content {
 	margin: 20px;
 }
+
 #content img {
-  margin: 25px;
-  width: 280px;
-  border: 3px solid #FFF;
-  float: right;
+	margin: 25px;
+	width: 280px;
+	border: 3px solid #FFF;
+	float: right;
 }
-#content h2{
-  color: #F2B95F;
+
+#content h2 {
+	color: #F2B95F;
 }
-#content h3{
-  color: #0F5336;
+
+#content h3 {
+	color: #0F5336;
 }
-#content h4{
-  color: #223C7D;
+
+#content h4 {
+	color: #223C7D;
 }
+
 #content p {
 	margin-top: 5px;
 	margin-bottom: 15px;
 }
+
 #glink:hover {
-  background-color: #D1A31F; 
+	background-color: #D1A31F;
 }
+
 #footer {
 	background-color: #000;
 	color: #FFF;
 	height: 25px;
 }
+
 #footer h6 {
 	font-size: 12px;
 	line-height: 25px;
