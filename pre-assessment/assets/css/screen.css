@@ -82,6 +82,9 @@ h1 span{
 	margin-top: 5px;
 	margin-bottom: 15px;
 }
+#glink:hover {
+  background-color: #D1A31F; 
+}
 #footer {
 	background-color: #000;
 	color: #FFF;
